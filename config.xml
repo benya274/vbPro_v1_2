@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.tbanyar.app" version="1.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.sekawanmotor.app" version="1.0.6" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>TB Anyar</name>
     <description>
-        Program Toko Besi Anyar
+        Program Sekawan Motor
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        TB Anyar
+        Sekawan Motor
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
