@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.sekawanmotor.app" version="1.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.zep_resto.app" version="1.0.7" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>Sekawan Motor</name>
     <description>
-        Program Sekawan Motor
+        Program Resto
     </description>
     <author email="support@phonegap.com" href="http://phonegap.com">
-        Sekawan Motor
+        Resto
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
